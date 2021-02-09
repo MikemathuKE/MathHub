@@ -1,0 +1,8 @@
+/MathHub/nbproject/private/
+/MathHub/build/
+/MathHub/dist/
+/MathHub/test/
+
+*.xml
+*.mf
+*.properties
